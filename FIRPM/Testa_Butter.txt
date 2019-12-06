@@ -1,0 +1,7 @@
+Resultados do Teste do Filtro ButterWorth
+(OBS. Os parâmetros do filtro são os mínimos para o funcionamento desejado)
+
+Ordem do filtro: 120
+Técnica de filtragem: filtfilt
+Frequencia de corte pré integração: 15 Hz
+Frequencia de corte pós integração: 25 Hz

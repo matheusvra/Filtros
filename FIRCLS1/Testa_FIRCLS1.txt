@@ -1,0 +1,10 @@
+Resultados do Teste do Filtro FIRCLS1
+(OBS. Os parâmetros do filtro são os mínimos para o funcionamento desejado)
+
+Ordem do filtro: 70
+Técnica de filtragem: filtfilt
+Frequencia de corte pré integração: 10 Hz
+Frequencia de corte pós integração: 25 Hz
+Amplitude máxima do sinal teórico: 0.001221493330427
+Erro máximo após integração (desconsiderando transitório): 0.000053211976673
+Erro máximo percentual após integração (desconsiderando transitório): 4.36 %
