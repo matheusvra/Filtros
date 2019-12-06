@@ -1,0 +1,10 @@
+Resultados do Teste do Filtro ButterWorth
+(OBS. Os parâmetros do filtro são os mínimos para o funcionamento desejado)
+
+Ordem do filtro: 4
+Técnica de filtragem: filtfilt
+Frequencia de corte pré integração: 5 Hz
+Frequencia de corte pós integração: 25 Hz
+Amplitude máxima do sinal teórico: 0.001221493330427
+Erro máximo após integração (desconsiderando transitório): 0.000067233856072
+Erro máximo percentual após integração (desconsiderando transitório): 5.50 %
